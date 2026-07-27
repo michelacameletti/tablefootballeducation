@@ -1,11 +1,13 @@
 # Table Football for Statistics Education
 
+
+
+<p align="center"> <img src="tablefootball_logo.png" alt="Table Football and Statistics" width="300"> </p>
+
 This repository contains the Excel workbooks and supporting materials associated with the paper:
 
 > Michela Cameletti and Rodolfo Metulini, *Using Table Football to Introduce Statistical Reasoning and Predictive Modeling to High-School Students*.
-
-<p align="center"> <img src="tablefootball_logo.png" alt="Table Football and Statistics" width="500"> </p>
-
+> 
 The project uses table football as a game-based context for introducing conditional probability, uncertainty, statistical prediction, and the limitations of statistical models. The materials are designed for university outreach activities with high-school students, but they can also be adapted for introductory statistics courses.
 
 ## Overview
