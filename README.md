@@ -185,7 +185,7 @@ When using the educational materials in this repository, please cite the accompa
 
 > Cameletti, M., & Metulini, R. ([year]).  
 > *Using Table Football to Introduce Statistical Reasoning and Predictive Modeling to High-School Students.*  
-> *Journal of Statistics and Data Science Education*. [DOI]
+> *Journal. [DOI]
 
 ### BibTeX
 
@@ -193,7 +193,7 @@ When using the educational materials in this repository, please cite the accompa
 @article{cameletti_tablefootball,
   author  = {Cameletti, Michela and Metulini, Rodolfo},
   title   = {Using Table Football to Introduce Statistical Reasoning and Predictive Modeling to High-School Students},
-  journal = {Journal of Statistics and Data Science Education},
+  journal = {Journal},
   year    = {[Year]},
   doi     = {[DOI]}
 }
