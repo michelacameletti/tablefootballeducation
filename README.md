@@ -141,17 +141,6 @@ A laboratory session can be organized around the following sequence:
 The two activities can be used independently according to the available time, number of participants, and intended learning goals.
 
 ---
-
-# Teaching materials
-
-Each laboratory session begins with a short instructor-led introduction to probability, conditional probability, and statistical prediction.
-
-The `teaching_materials/` folder contains the slides used to support this introductory component of the laboratory. These materials can be adapted according to students' prior statistical preparation and the version of the activity being implemented.
-
-**[TO BE UPDATED: list the slide files after uploading them.]**
-
----
-
 # Excel Solver
 
 The logistic regression models contained in the workbooks were estimated in Microsoft Excel by maximizing the log-likelihood using the **Solver** add-in.
@@ -166,6 +155,14 @@ To enable Solver in Excel:
 4. click **OK**.
 
 The data dictionaries included in the workbooks describe the variables, model calculations, and Solver objective.
+
+---
+
+# Teaching materials
+
+Each laboratory session begins with a short instructor-led introduction to probability, conditional probability, and statistical prediction.
+
+The `teaching_materials/` folder contains the slides (available in Italian and in English) used to support this introductory component of the laboratory. These materials can be adapted according to students' prior statistical preparation and the version of the activity being implemented.
 
 ---
 
