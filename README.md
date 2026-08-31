@@ -19,10 +19,10 @@ The repository provides the materials needed to reproduce two complementary educ
 
 | File or folder | Description |
 |---|---|
-| `individual_shots_with_description.xlsx` | Data, fitted logistic regression model, prediction interface, Solver implementation, and data dictionary for the individual-shot activity. |
-| `team_matches_with_description.xlsx` | Data, fitted logistic regression model, prediction interface, Solver implementation, and data dictionary for the team-match activity. |
-| `teaching_materials/` | Materials supporting the introductory component of the laboratory. |
-| `sports_analytics/` | R code for reproducing the sports analytics results reported in the associated publications. |
+| [`individual_shots_with_description.xlsx`](individual_shots_with_description.xlsx) | Data, fitted logistic regression model, prediction interface, Solver implementation, and data dictionary for the individual-shot activity. |
+|  [`team_matches_with_description.xlsx`](team_matches_with_description.xlsx) | Data, fitted logistic regression model, prediction interface, Solver implementation, and data dictionary for the team-match activity. |
+| [`teaching_materials/`](teaching_materials/) | Materials supporting the introductory component of the laboratory. |
+| [`sports_analytics/`](sports_analytics/) | R code for reproducing the sports analytics results reported in the associated publications. |
 | `tablefootball_logo.png` | Repository logo. |
 
 ---
