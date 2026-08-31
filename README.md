@@ -64,7 +64,7 @@ Delta = observed outcome - predicted probability
 
 ### Using the workbook
 
-1. Open `individual_shots_with_description.xlsx`.
+1. Open [`individual_shots_with_description.xlsx`](individual_shots_with_description.xlsx) .
 2. In the next empty row, enter the characteristics of the new player and shot.
 3. Copy the formulas indicated in the worksheet to the new row.
 4. Read the estimated probability of scoring.
@@ -115,13 +115,13 @@ Delta = observed outcome - predicted probability
 
 ### Using the workbook
 
-1. Open `team_matches_with_description.xlsx`.
-2. Enter the characteristics of Team A and Team B.
-3. Start the match.
-4. After the first goal, indicate which team scored first.
-5. Copy the formulas indicated in the worksheet to obtain the in-play probabilities.
-6. Complete the match and enter the observed outcome.
-7. Compare the final result with the model-based probability.
+1. Open [`team_matches_with_description.xlsx`](team_matches_with_description.xlsx).
+3. Enter the characteristics of Team A and Team B.
+4. Start the match.
+5. After the first goal, indicate which team scored first.
+6. Copy the formulas indicated in the worksheet to obtain the in-play probabilities.
+7. Complete the match and enter the observed outcome.
+8. Compare the final result with the model-based probability.
 
 ---
 
@@ -129,7 +129,7 @@ Delta = observed outcome - predicted probability
 
 A laboratory session can be organized around the following sequence:
 
-1. introduce probability and conditional probability using simple examples and two-way tables;
+1. introduce probability and conditional probability using simple examples and two-way tables (see also [`teaching_materials/`](teaching_materials/));
 2. explain that a statistical model combines available information to produce a probability rather than a certain prediction;
 3. enter the relevant player, shot, or team characteristics;
 4. generate the model-based probability;
@@ -162,7 +162,7 @@ The data dictionaries included in the workbooks describe the variables, model ca
 
 Each laboratory session begins with a short instructor-led introduction to probability, conditional probability, and statistical prediction.
 
-The `teaching_materials/` folder contains the slides (available in Italian and in English) used to support this introductory component of the laboratory. These materials can be adapted according to students' prior statistical preparation and the version of the activity being implemented.
+The [`teaching_materials/`](teaching_materials/) folder contains the slides (available in Italian and in English) used to support this introductory component of the laboratory. These materials can be adapted according to students' prior statistical preparation and the version of the activity being implemented.
 
 ---
 
@@ -170,7 +170,7 @@ The `teaching_materials/` folder contains the slides (available in Italian and i
 
 The data collected through the project can also be used for exploratory sports analytics and more advanced statistical teaching.
 
-The `sports_analytics/` folder provides the R code and data in .txt format used to reproduce the following analyses:
+The [`sports_analytics/`](sports_analytics/) folder provides the R code and data in .txt format used to reproduce the following analyses:
 
 - Individual-shot analysis: Table 1 in Cameletti et al. (2026), https://doi.org/10.1007/978-3-032-30877-1_69;
 - Team-match analysis: Table 1 in the accompanying paper.
